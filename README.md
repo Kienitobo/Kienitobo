@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kienitobo
 - 👀 I’m interested in knitting, crochet, reading and researching and most recently, software development.
-- 🌱 I’m currently learning fullstack web development.
-- 💞️ I’m looking to collaborate on Python projects
+- 🌱 I’m currently learning frontend web development.
+- 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me: enitobo@gmail.com
 
 <!---
