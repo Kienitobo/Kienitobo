@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kienitobo
-- 👀 I’m interested in knitting, crochet, reading and researching and most recently, software development.
-- 🌱 I’m currently learning frontend web development.
+- 👀 I became interested in building interactive web pages when I decided to build a website for my knitting business. Now I build simple interactive websites using HTML, CSS, JavaScript, and React.  
+- 🌱 In my spare time I knit, crochet, read and research.
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me: enitobo@gmail.com
 
